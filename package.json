@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LambdaSchool/node-server-testing.git"
+    "url": "git+https://github.com/cmrivera/node-server-testing.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LambdaSchool/node-server-testing/issues"
+    "url": "https://github.com/cmrivera/node-server-testing/issues"
   },
-  "homepage": "https://github.com/LambdaSchool/node-server-testing#readme",
+  "homepage": "https://github.com/cmrivera/node-server-testing#readme",
   "devDependencies": {
     "jest": "^24.9.0",
     "supertest": "^4.0.2"
